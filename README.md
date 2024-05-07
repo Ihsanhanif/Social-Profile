@@ -34,8 +34,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- The Solution and The Live URL : (https://social-profile-ihsanhanifs-projects.vercel.app/)
 
 ## My process
 
