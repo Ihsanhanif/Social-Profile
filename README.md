@@ -48,11 +48,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### What I learned
 
 ```html
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code i learned more<h1>
 <p>
